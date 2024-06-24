@@ -15,17 +15,9 @@
 
 🏢 Software Engineer (Full Stack) in Santo Domingo DN
 🧰 I build with: 
-  forro
 <div id="badges">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-
+<img src="
 ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 📫 Reach out to me: brian@b-r.io
-
-
-
-
-
-
-
