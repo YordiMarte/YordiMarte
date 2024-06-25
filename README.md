@@ -1,7 +1,7 @@
 ## Hi there 😁. I am Yordi, a full stack software engineer student specialized in the backend and mobile applications area.
 ### Some Things About Me
 
-🏢 Software Engineer (Full Stack) in Santo Domingo RD
+-🏢 Software Engineer (Full Stack) in Santo Domingo RD
 ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 📫 Reach out to me: 
 
