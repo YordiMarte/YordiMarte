@@ -1,7 +1,5 @@
 
-<a href="https://www.Github.com/YordiMarte">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the- badge&logo=github&logoColor=white" alt="Github">
-</a>
+
 
 <a href="https://www.Github.com/YordiMarte">
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
