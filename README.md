@@ -1,5 +1,5 @@
-</span>
-<a href="https://www.github.com/YordiMarte">
+
+<a href="https://www.Github.com/YordiMarte">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the- badge&logo=github&logoColor=white" alt="Github">
 </a>
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
