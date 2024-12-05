@@ -10,9 +10,6 @@
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-
-
- Django, JavaScript, Next.js, Gatsby.js, MUI, Tailwind .
-- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 📫 Reach out to me: brian@b-r.io
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ...
+- ⚡ Outside of the desk, I like to go to the gym and play soccer.:)
+- 📫 Reach out to me: @.io
